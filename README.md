@@ -1,4 +1,4 @@
-# PHP SCRPTS DEALLING WITH DATABASE
+# PHP SCRPTS DEALING WITH DATABASE
 ## connect_to_db.php
 - make a data base and try to connect with it . remember to **replace the name of db** with db_name in the file.
   
