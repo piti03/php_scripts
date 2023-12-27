@@ -10,7 +10,7 @@
 - This script takes two arguments from client to test the existency! **both similar arguments must existed**. If arguments be existed, returns the whole row as a json object, otherwise a warning dialogue.
 
 ## select_from_db.php
-- This script returns all records of databes as a json array which is made up of from some json objects based on the number of rows in database.
+- This script returns all records of databes as a json array which is made up of some json objects based on the number of rows in database.
 
 ## remind_password.php
 - This script takes the username from client side and if username be correct!, send the password by an email to the user.
