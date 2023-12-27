@@ -2,6 +2,7 @@
 ## connect_to_db.php
 - make a database and try to connect with it . remember to **replace the name of db** with db_name in the file.
   
+  
 ## insert_into_db.php
 - This script takes two arguments from client side and insert into related table **make your proper table** and call it in the file. *logically your table should have relevant fields as table_record*.
  
